@@ -6,7 +6,7 @@ const products = [
         category: "Fruits",
         price: 50,
         image: "/images/apple.jpg",
-        description: "Fresh organic apple.",
+        description: "Fresh and organic apple.",
     },
     {
         id: "fruit-2",
